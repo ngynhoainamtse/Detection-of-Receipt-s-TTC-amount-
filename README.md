@@ -1,0 +1,1 @@
+# Detection-of-Receipt-s-TTC-amount-
